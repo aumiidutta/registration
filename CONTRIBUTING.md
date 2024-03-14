@@ -1,15 +1,23 @@
 ## Please read the markdown to understand on how to contribute
 
+### OPEN SOURCE 101
+
+- Fork the repository
+- Clone the forked repository in your system
+‘‘‘
+git clone <forked_repo_link>
+’’’
+- Create a separate branch for the git repository
+**Don't push changes to the main branch directly**
+
 ### DOWNLOADING AND INSTALLATION
 - Firstly, download NetBeans, XAMPP & the .jar file from the provided links
 - Install NetBeans and then XAMPP
 
-### Create a separate branch for the git repository
-**Don't push changes to the main branch directly**
-
 ### MAIN STEPS
 
 #### XAMPP
+
 - Start apache and then mysql
   - Click on Admin button of mysql
   - Go to import tab
@@ -17,6 +25,7 @@
   - Check the 'regtdb' database by clicking on the Database tab
 
 #### NETBEANS
+
 - Open NetBeans, open Project, choose registration from your saved location
 - Go to Services tab, right click on Database, select New Connection, Select Driver as MySql(Connector/J Driver), Add mysql connector file
   - Change the database name to 'regtdb'
@@ -30,5 +39,7 @@
 - The project should be within <defaultpackage> under Source in Projects Tab
 
 #### CONTRIBUTIONS
+
 - Go through the design and the source code to understand
 - Now you are free to contribute
+- Contribute and then add a pull request

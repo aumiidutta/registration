@@ -7,8 +7,8 @@
 ‘‘‘
 git clone <forked_repo_link>
 ’’’
-- Create a separate branch for the git repository
-**Don't push changes to the main branch directly**
+- Create a separate branch for the git repository 
+**[Don't push changes to the main branch directly]**
 
 ### DOWNLOADING AND INSTALLATION
 - Firstly, download NetBeans, XAMPP & the .jar file from the provided links

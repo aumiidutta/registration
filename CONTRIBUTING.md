@@ -3,7 +3,7 @@
 ### OPEN SOURCE 101
 
 - Fork the repository
-- Clone the forked repository in your system
+- Clone the forked repository in your system<br>
 '''
 git clone <forked_repo_link>
 '''

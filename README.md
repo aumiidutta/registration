@@ -13,4 +13,4 @@ A registration form to store details of students
 - DB tool => [XAMPP](https://www.apachefriends.org/)
 - Connector between IDE & XAMPP => [.jar file](https://dev.mysql.com/downloads/connector/j/)
 
-### Feel free to use this as your own assignment for college<br /><center>OR</center><br />contributions are open if you want to improve this
+#### Feel free to use this as your own assignment for college<br />OR<br />Contributions are open if you want to improve this

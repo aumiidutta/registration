@@ -43,3 +43,8 @@ git clone <forked_repo_link>
 - Go through the design and the source code to understand
 - Now you are free to contribute
 - Contribute and then add a pull request
+
+### NOTE
+
+PR's will be merged once in a while since I'm actively working in other projects.<br>
+So please be patient!

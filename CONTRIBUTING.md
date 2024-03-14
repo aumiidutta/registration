@@ -5,7 +5,7 @@
 - Install NetBeans and then XAMPP
 
 ### Create a separate branch for the git repository
-** Don't push changes to the main branch directly**
+**Don't push changes to the main branch directly**
 
 ### MAIN STEPS
 

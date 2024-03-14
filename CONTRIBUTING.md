@@ -4,9 +4,9 @@
 
 - Fork the repository
 - Clone the forked repository in your system
-‘‘‘
+'''
 git clone <forked_repo_link>
-’’’
+'''
 - Create a separate branch for the git repository 
 **[Don't push changes to the main branch directly]**
 
